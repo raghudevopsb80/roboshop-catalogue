@@ -9,4 +9,4 @@ if [ -z "${MONGO_URL}" ]; then
 fi
 
 
-/bin/node /app/server.js
+node /app/server.js
