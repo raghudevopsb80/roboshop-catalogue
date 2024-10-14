@@ -16,6 +16,6 @@
       "express-pino-logger": "^4.0.0",
       "pino-pretty": "^2.5.0",
       "semver": "^7.5.2",
-      "@instana/collector": "^1.98.1"
+      "@instana/collector": "^3.20.2"
   }
 }
